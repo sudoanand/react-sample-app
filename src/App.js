@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello, love it!!
+          Hello, from pie host.
         </p>
         <a
           className="App-link"
