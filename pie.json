@@ -3,6 +3,10 @@
         {
             "command": "touch /tmp/cron_test",
             "schedule": "* * * * *"
+        },
+        {
+            "command": "echo 1 > /tmp/cron_test2",
+            "schedule": "* * * * *"
         }
     ]
 }
