@@ -10,7 +10,7 @@
         },
         {
             "command": "echo 1 > /tmp/cron_test3",
-            "schedule": "* * * * *"
+            "schedule": "0 * * * *"
         }
     ]
 }
