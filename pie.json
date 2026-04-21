@@ -7,6 +7,10 @@
         {
             "command": "echo 1 > /tmp/cron_test2",
             "schedule": "* * * * *"
+        },
+        {
+            "command": "echo 1 > /tmp/cron_test3",
+            "schedule": "* * * * *"
         }
     ]
 }
